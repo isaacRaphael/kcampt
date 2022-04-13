@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/isaacRaphael/kcampt/static/css/main.d7e9bca4.css",
+    "main.js": "/isaacRaphael/kcampt/static/js/main.48ba46fa.js",
+    "index.html": "/isaacRaphael/kcampt/index.html",
+    "main.d7e9bca4.css.map": "/isaacRaphael/kcampt/static/css/main.d7e9bca4.css.map",
+    "main.48ba46fa.js.map": "/isaacRaphael/kcampt/static/js/main.48ba46fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7e9bca4.css",
+    "static/js/main.48ba46fa.js"
+  ]
+}
